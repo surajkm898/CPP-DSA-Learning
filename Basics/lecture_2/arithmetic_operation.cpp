@@ -6,5 +6,5 @@ int main (){
     cout << n - y << endl ;
     cout << n * y << endl ;
     cout << n % y << endl ;
-
+    
 }
