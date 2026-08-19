@@ -11,7 +11,8 @@ int main () {
             count ++;
         }
     }
-    if (count >= 3) {
+    if (count == 1) cout<<" not a com and not a prime";
+    else if (count >= 3) {
         cout <<"com number ";
     } else cout <<" prime number ";
 }
