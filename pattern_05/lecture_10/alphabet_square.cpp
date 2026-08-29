@@ -16,7 +16,7 @@ int main (){
     // m2
      for (int i=1;i<=n;i++){
         for (int j=1;j<=n;j++){
-              cout<<(char)(64+j)<<" ";
+              cout<<(char)(96+j)<<" ";
         }
         cout << endl;
     }
