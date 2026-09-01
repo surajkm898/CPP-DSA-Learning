@@ -8,7 +8,7 @@ int main(){
         for(int j=1;j<=m;j++){
             if(i==1 ||i==n||j==1||j==m){
                 cout<<"* ";
-            }else cout<<"# ";
+            }else cout<<"  ";
         } cout<<endl;
     }
 }
