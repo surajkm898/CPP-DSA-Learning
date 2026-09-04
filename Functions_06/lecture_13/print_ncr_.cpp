@@ -11,5 +11,5 @@ int npr(int n, int r){
     int a = far(n)/(far(r)*far(n-r));
 }
 int main (){
-    cout<<npr(5 ,2);
+    cout<<npr(23 ,2);
 }
