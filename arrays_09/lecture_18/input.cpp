@@ -8,4 +8,8 @@ int main (){
     for(int i=0;i<=n-1;i++){
         cin>>x[i];
     }
+    for(int i=0;i<=n-1;i++){
+        if(x[i]<0){cout<<x[i]<<" ";
+        }
+    }
 }
