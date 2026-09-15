@@ -9,5 +9,8 @@ int main(){
         revs += lastdig;
         n/=10;
      }
-     cout <<revs;
+     if(revs == n){
+      cout << " it is palindrome ";
+     } else cout <<" it is not palindrome ";
+     
 }
