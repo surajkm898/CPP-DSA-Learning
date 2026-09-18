@@ -20,5 +20,5 @@ int main (){
                     se = x[k];
                 }
             }
-                cout<<"sec min" <<se;
+                cout<<"sec min =" <<se;
 }
