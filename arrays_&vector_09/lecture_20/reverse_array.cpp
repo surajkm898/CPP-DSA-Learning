@@ -13,7 +13,7 @@ int main (){
     print(v);
     while (i<j)
     {
-        int temp = v[i];
+        int temp = v[i];  // m2 => swap(a[i],b[j]);
         v[i] = v[j];
         v[j] = temp;
         i++;
