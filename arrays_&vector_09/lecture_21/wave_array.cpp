@@ -17,7 +17,7 @@ void sortInWave(vector<int> &arr){
 
 int main(){
     
-    vector<int> arr = {1, 2, 3, 4, 5};
+    vector<int> arr = {1, 3, 2, 4, 5};
     sortInWave(arr);
     for (int i=0; i<arr.size(); i++)
        cout << arr[i] << " ";
